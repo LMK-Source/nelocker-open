@@ -26,7 +26,7 @@ Suggestions and PRs welcome — new prompts, better tool entries, fixes. Keep ev
 
 ## License
 
-[MIT](./LICENSE) © 2026 LMK Management LLC (NeLocker). Build something great.
+[MIT](./LICENSE) © 2026 WeKnowTech, an LMK product (NeLocker). Build something great.
 
 ---
 

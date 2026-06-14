@@ -2,7 +2,7 @@
 
 A practical, plain-English checklist + copy-and-customize templates for launching a website or app — covering the US (including California), the EU/UK, cookies, and children. From [NeLocker](https://nelocker.com).
 
-> ⚠️ **EDUCATIONAL ONLY — NOT LEGAL ADVICE.** NeLocker / LMK Management LLC are not your attorneys and accept no liability for how you use this. Laws change and vary by jurisdiction. Consult a qualified attorney before relying on any of it. **License: MIT** — free to use and adapt.
+> ⚠️ **EDUCATIONAL ONLY — NOT LEGAL ADVICE.** NeLocker (WeKnowTech, an LMK product) are not your attorneys and accept no liability for how you use this. Laws change and vary by jurisdiction. Consult a qualified attorney before relying on any of it. **License: MIT** — free to use and adapt.
 
 ---
 
